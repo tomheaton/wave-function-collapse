@@ -2,5 +2,5 @@
 
 wave function collapse
 
-a simple wave function collapse project in python
+a simple wave function collapse project written in python
 
